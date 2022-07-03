@@ -7,9 +7,11 @@
         "build": "next build",
         "start": "next start",
         "lint": "next lint",
+        "db": "npx prisma db push && npx prisma studio",
         "test": "jest --coverage"
     },
     "dependencies": {
+        "@prisma/client": "^4.0.0",
         "next": "12.2.0",
         "react": "18.2.0",
         "react-dom": "18.2.0",
@@ -25,6 +27,7 @@
         "eslint-config-next": "12.2.0",
         "jest": "^28.1.2",
         "jest-environment-jsdom": "^28.1.2",
+        "prisma": "^4.0.0",
         "typescript": "4.7.4"
     }
 }
