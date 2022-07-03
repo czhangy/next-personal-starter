@@ -52,63 +52,7 @@
 
 ### Summary
 
-This is my personal starter for TypeScript/Next.js applications. As of now, it comes pre-setup with a `src` folder, path aliasing, SASS support, Prettier config, Jest/Testing Library, Husky pre-commit hooks, and Prisma config, although other technologies may be added in the future.
-
-<!-- Tech Stack -->
-
-### Tech Stack
-
-<!-- Shields.io Badges: https://github.com/Ileriayo/markdown-badges -->
-
-<details>
-    <summary>Client</summary>
-    <br />
-    <a href="https://www.typescriptlang.org/">
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    </a>
-    <a href="https://nextjs.org/">
-        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
-    </a>
-    <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" />
-    </a>
-    <a href="https://sass-lang.com/">
-        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
-    </a>
-</details>
-
-<details>
-    <summary>Server</summary>
-    <br />
-    <a href="https://www.typescriptlang.org/">
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    </a>
-    <a href="https://nextjs.org/">
-        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
-    </a>
-    <a href="https://www.prisma.io/">
-        <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-    </a>
-</details>
-
-<details>
-    <summary>Testing</summary>
-    <br />
-    <a href="https://jestjs.io/">
-        <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-    </a>
-    <a href="https://testing-library.com/">
-        <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing Library" />
-    </a>
-</details>
-
-<!-- Env Variables -->
-
-### Environment Variables
-
-To run this project, you will need to add the following environment variables to your `.env` file
-
--   `DATABASE_URL`
+This is my personal starter for TypeScript/Next.js applications. As of now, it comes pre-setup with a README template, `src` folder, path aliasing, SASS support, Prettier config, Jest/Testing Library, Husky pre-commit hooks, and Prisma config, although other technologies may be added in the future.
 
 <!-- Getting Started -->
 
