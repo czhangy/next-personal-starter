@@ -2,7 +2,7 @@
 
 <!-- Title -->
 
-<img src="public/assets/images/main.jpg" alt="logo" width="200" height="auto" />
+<img src="public/assets/images/bitmoji.png" alt="logo" width="200" height="auto" />
 <h1>Personal Portfolio</h1>
 
 <!-- Badges -->
