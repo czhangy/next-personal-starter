@@ -2,7 +2,7 @@
 
 <!-- Title -->
 
-<img src="public/assets/images/bitmoji.png" alt="logo" width="200" height="auto" />
+<img src="public/assets/images/next.webp" alt="logo" width="200" height="auto" />
 <h1>Next Personal Starter</h1>
 
 <!-- Badges -->
