@@ -31,18 +31,18 @@
 
 # Table of Contents
 
--   [About the Project](#about-the-project)
-    -   [Summary](#summary)
-    -   [Tech Stack](#tech-stack)
-    -   [Features](#features)
-    -   [Environment Variables](#environment-variables)
--   [Getting Started](#getting-started)
-    -   [Prerequisites](#prerequisites)
-    -   [Run Locally](#run-locally)
--   [Roadmap](#roadmap)
--   [License](#license)
--   [Contact](#contact)
--   [Acknowledgements](#acknowledgements)
+- [About the Project](#about-the-project)
+  - [Summary](#summary)
+  - [Tech Stack](#tech-stack)
+  - [Features](#features)
+  - [Environment Variables](#environment-variables)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Run Locally](#run-locally)
+- [Roadmap](#roadmap)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 <!-- About the Project -->
 
@@ -129,7 +129,7 @@ The most up-to-date version of my portfolio is currently deployed at: https://cz
 
 To run this project, you will need to add the following environment variables to your `.env` file
 
--   `DATABASE_URL`
+- `DATABASE_URL`
 
 <!-- Getting Started -->
 
@@ -167,44 +167,44 @@ npm run dev
 
 ## Roadmap
 
--   [ ] Set up Prisma + PostgreSQL
+- [ ] Set up Prisma + PostgreSQL
 
--   [ ] Build nav
-    
-    -   [ ] Nav links to each page
-    -   [ ] Light mode toggle
+- [ ] Build nav
 
--   [ ] Build main page
+  - [ ] Nav links to each page
+  - [ ] Light mode toggle
 
-    -   [ ] Landing page
-    -   [ ] About me
-    -   [ ] Skills carousel
-    -   [ ] Projects carousel
-    -   [ ] Contact info
-    -   [ ] Smooth animations with scroll
+- [ ] Build main page
 
--   [ ] Build about page
+  - [ ] Landing page
+  - [ ] About me
+  - [ ] Skills carousel
+  - [ ] Projects carousel
+  - [ ] Contact info
+  - [ ] Smooth animations with scroll
 
-    -   [ ] About self
-    -   [ ] About experience
-    -   [ ] About hobbies
+- [ ] Build about page
 
--   [ ] Build skills page
+  - [ ] About self
+  - [ ] About experience
+  - [ ] About hobbies
 
-    -   [ ] Sections for skill types
+- [ ] Build skills page
 
--   [ ] Build projects page
-    
-    -   [ ] Links to individual projects
-    -   [ ] Grid with project cards
+  - [ ] Sections for skill types
 
--   [ ] Build project cards
+- [ ] Build projects page
 
-    -   [ ] Project card with site thumbnail + links to project page
-    -   [ ] Top ribbon with project name that links to deployed site
-    -   [ ] Bottom ribbon with tags
+  - [ ] Links to individual projects
+  - [ ] Grid with project cards
 
--   [ ] Unit testing
+- [ ] Build project cards
+
+  - [ ] Project card with site thumbnail + links to project page
+  - [ ] Top ribbon with project name that links to deployed site
+  - [ ] Bottom ribbon with tags
+
+- [ ] Unit testing
 
 ## License
 
@@ -230,5 +230,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
--   [Awesome README](https://github.com/matiassingers/awesome-readme)
--   [Shields.io](https://shields.io/)
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [Shields.io](https://shields.io/)
