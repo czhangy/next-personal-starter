@@ -71,7 +71,7 @@ This project uses NPM as a package manager
 Create a Next app with this starter
 
 ```bash
-npx create-next-app [project-name] -e https://github.com/czhangy/next-personal-starter.git
+npx create-next-app [project-name] -e https://github.com/czhangy/next-personal-starter
 ```
 
 Start the application
