@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@czhangy 
-czhangy
-/
-Minroll
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Minroll/.prettierignore
-@czhangy
-czhangy setup done
-Latest commit 4565f89 on May 23
- History
- 1 contributor
-33 lines (25 sloc)  348 Bytes
-
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
