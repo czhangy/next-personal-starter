@@ -4,10 +4,10 @@
     "private": true,
     "scripts": {
         "dev": "next dev",
-        "build": "next build",
+        "build": "npx prisma db push --schema=./src/prisma/schema.prisma && next build",
         "start": "next start",
         "lint": "next lint",
-        "db": "npx prisma db push && npx prisma studio",
+        "db": "npx prisma db push --schema=./src/prisma/schema.prisma && npx prisma studio",
         "test": "jest --coverage --passWithNoTests",
         "prepare": "husky install"
     },
